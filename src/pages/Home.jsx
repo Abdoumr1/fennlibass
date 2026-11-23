@@ -159,7 +159,7 @@ const imageFor = (product, color) =>
 const CART_KEY = "fenlibass-cart-v1";
 
 // WhatsApp number with country code, without +, spaces or leading zero.
-const WHATSAPP_NUMBER = "2135533551559";
+const WHATSAPP_NUMBER = "213553551559";
 
 function useStoredCart() {
     const [lines, setLines] = useState(() => {
